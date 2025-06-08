@@ -1,0 +1,42 @@
+[
+  {
+    "id": "3f376384-ac22-4dc4-b69d-156b9bb992fc",
+    "logged": true,
+    "name": "Arleudo",
+    "email": "email",
+    "password": "senha",
+    "role": "gerente"
+  },
+  {
+    "id": "02d8519c-6472-4215-8678-461073ba4141",
+    "logged": false,
+    "name": "Alison",
+    "email": "email2",
+    "password": "senha",
+    "role": "gerente"
+  },
+  {
+    "id": "5f9ccd4c-d40a-4e51-8edc-21f52db62a79",
+    "logged": false,
+    "name": "Eugenia",
+    "email": "email",
+    "password": "senha",
+    "role": "admin"
+  },
+  {
+    "id": "784c3ad1-81f7-42c4-97fd-9c29aabe87b1",
+    "logged": false,
+    "name": "Ruan",
+    "email": "rewr",
+    "password": "ewr",
+    "role": "werwer"
+  },
+  {
+    "id": "48dc1e75-7442-4b18-97a9-b5482674eeb5",
+    "logged": false,
+    "name": "Barbosa",
+    "email": "fhsdjh",
+    "password": "hghadg",
+    "role": "hghsdg"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "64ab59fd-215a-4bf8-990b-dec79a6e4e28",
+    "status": "full",
+    "name": "Lixeira1",
+    "location": "sala"
+  },
+  {
+    "id": "60411b6d-3bef-4a9d-bd84-b7dd4ad169db",
+    "status": "empty",
+    "name": "Lixeira2",
+    "location": "cozinha"
+  },
+  {
+    "id": "db06c131-5c15-4e22-8146-efb43c57cd32",
+    "status": "middle",
+    "name": "Lixeira3",
+    "location": "banheiro"
+  },
+  {
+    "id": "ae3ef29e-3e21-438f-a33d-6e7370fb96a8",
+    "status": "empty",
+    "name": "Lixeira 4",
+    "location": "telhado"
+  },
+  {
+    "id": "eacbea3a-81a8-4c14-bb48-8df9127f5e91",
+    "status": "empty",
+    "name": "Lixeira 5",
+    "location": "hall"
+  }
+]
